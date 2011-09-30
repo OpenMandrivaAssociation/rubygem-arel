@@ -19,6 +19,7 @@ Requires: ruby(abi) = 1.8
 Requires: rubygems
 BuildRequires: rubygem(minitest)
 BuildRequires: rubygems
+BuildRequires: ruby-rdoc
 BuildArch: noarch
 Provides: rubygem(%{gemname}) = %{version}
 
