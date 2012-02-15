@@ -4,8 +4,8 @@
 
 Summary: Arel is a Relational Algebra for Ruby
 Name: rubygem-%{gemname}
-Version: 2.0.9
-Release:	2
+Version: 3.0.0
+Release:	1
 Group: Development/Ruby 
 License: MIT
 URL: http://github.com/rails/%{gemname}
