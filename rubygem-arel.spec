@@ -54,3 +54,22 @@ rake test
 %{ruby_gemdir}/doc/%{rbname}-%{version}
 %{ruby_gemdir}/gems/%{rbname}-%{version}/*.markdown
 %{ruby_gemdir}/gems/%{rbname}-%{version}/*.txt
+
+
+%changelog
+* Thu Apr 05 2012 Alexander Khrukin <akhrukin@mandriva.org> 3.0.2-1
++ Revision: 789358
+- version update 3.0.2
+
+* Thu Feb 16 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 3.0.0-1
++ Revision: 775076
+- add rubygem(hoe) to buildrequires for check suite
+- regenerate spec with gem2rpm5
+- new version
+- mass rebuild of ruby packages against ruby 1.9.1
+
+* Fri Sep 30 2011 Alexander Barakin <abarakin@mandriva.org> 2.0.9-1
++ Revision: 702146
+- missing rdoc fix
+- imported package rubygem-arel
+
