@@ -5,7 +5,7 @@ Summary:	Arel is a SQL AST manager for Ruby
 Name:		rubygem-%{rbname}
 
 Version:	5.0.0
-Release:	1
+Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://github.com/rails/arel
