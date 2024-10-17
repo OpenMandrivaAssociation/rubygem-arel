@@ -8,7 +8,7 @@ Version:	5.0.0
 Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://github.com/rails/arel
+URL:		https://github.com/rails/arel
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 # required by check suite
